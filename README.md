@@ -1,6 +1,8 @@
-# Grant Bidding Platform
+# Grant Bidding Platform - In Progress
 
 A web application for managing grant opportunities and bid submissions. Organizations can view available grants, submit bids, and track their submissions.
+
+An exercise in building a database driven API without using any frameworks. 
 
 ## Project Overview
 
